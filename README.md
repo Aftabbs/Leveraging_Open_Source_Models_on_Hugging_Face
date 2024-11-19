@@ -126,7 +126,7 @@ The project leveraged several libraries, including but not limited to:
 
 ## Gratitude
 
-We are immensely grateful to Hugging Face for providing open-source tools and models that empower developers worldwide to build innovative AI solutions. Their commitment to democratizing AI has transformed the field and enabled rapid advancements across industries.
+Immensely grateful to Hugging Face for providing open-source tools and models that empower developers worldwide to build innovative AI solutions. Their commitment to democratizing AI has transformed the field and enabled rapid advancements across industries.
 
 ---
 
