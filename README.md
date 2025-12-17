@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/55bf190a-10bb-4b33-bce5-38c0f9be5891)
  
 ## Introduction 
-  
+   
 This project showcases multiple use cases utilizing **open-source models** available on Hugging Face. Hugging Face has revolutionized AI development by providing a centralized hub for pre-trained models, datasets, and tools that accelerate the process of building intelligent applications. These models are fine-tuned for specific tasks such as Natural Language Processing (NLP), image analysis, speech recognition, and more.
 
 The solutions in this project span various domains, as shown in the directory structure:
